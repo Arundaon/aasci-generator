@@ -1,4 +1,4 @@
-# AASCI Generator
+# ASCII Generator
 ![alt text](sample.png)
 ### format   
 ```python3 main.py [image name] [ratio]```  
