@@ -1,5 +1,4 @@
 # aasci-generator
-Generate AASCI to terminal from image   
 ![alt text](sample.png)
 ### format   
 ```python3 main.py [image name] [ratio]```  
