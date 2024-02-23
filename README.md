@@ -1,5 +1,5 @@
 # ASCII Generator
-ASCII Generator is a small project created in a day used to generate ASCII from an image using a command line interface. It was developed using Python with the help of the Python Image Module (PIL) Library.
+ASCII Generator is a small project used to generate ASCII from an image using a command line interface. It was developed using Python with the help of the Python Image Module (PIL) Library.
 ![alt text](sample.png)
 ### format   
 ```python3 main.py [image name] [ratio]```  
